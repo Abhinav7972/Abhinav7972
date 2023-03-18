@@ -5,6 +5,5 @@ You can click the Preview link to take a look at your changes.
 --->
 hello am @Abhinav7972
 am aspiring  devloper
-currently woeking as java devloper intern
 i am from india 
 i also know about web devlopment 
