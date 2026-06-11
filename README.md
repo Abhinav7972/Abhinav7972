@@ -1,8 +1,15 @@
+👋 Hi, I'm Abhinav
 
-<!---
-Abhinav7972/Abhinav7972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-hello am @Abhinav7972
-am aspiring  devloper
-i am from india 
+Software Engineer | Business Owner | Builder
+
+I work at the intersection of technology and business, combining software development experience with hands-on experience in sales, operations, and management.
+
+Current interests:
+- Full Stack Web Development
+- Java Backend Development
+- Software Engineering
+- Product Thinking
+
+I believe the best way to learn is to build, ship, and improve.
+
+📍 India
